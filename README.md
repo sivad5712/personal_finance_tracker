@@ -5,6 +5,11 @@ A modern, responsive personal finance tracker built with Next.js, featuring a be
 
 ![Personal Finance Tracker](https://i.pinimg.com/736x/f0/96/11/f096111bddda9d3d1ad31b7a07fa1c81.jpg)
 
+## 🌟 Live Demo
+
+**[Try the Live Website](https://Personalfinancetracker.abacusai.app)**
+
+
 ## ✨ Features
 
 - 🌙 **Modern Dark Theme** - Beautiful dark design with purple gradient backgrounds
@@ -139,7 +144,7 @@ The app uses the following main entities:
 
 ## 🌐 Deployment
 
-### Vercel (Recommended)
+### Vercel 
 
 1. **Push to GitHub** (see instructions below)
 
@@ -147,8 +152,6 @@ The app uses the following main entities:
    - Go to [vercel.com](https://vercel.com)
    - Import your GitHub repository
    - Add environment variables in Vercel dashboard
-
-3. **Live Demo**: [https://your-app.vercel.app](https://your-app.vercel.app)
 
 ### Other Platforms
 
@@ -173,10 +176,6 @@ The app can be deployed on:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - Built with [Next.js](https://nextjs.org/)
@@ -184,10 +183,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Icons from [Lucide React](https://lucide.dev/)
 - Styled with [Tailwind CSS](https://tailwindcss.com/)
 
-## 📞 Support
-
-If you have any questions or need help, please open an issue on GitHub.
-
----
-
-**⭐ Star this repository if you found it helpful!**
